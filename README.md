@@ -26,7 +26,7 @@ Built thiis site in less than a week as a beginner using the following skill set
 * Web Design
 
 
-## TechnologiesUsed To Build This Project
+## Technologies Used To Build This Project
 * HTML
 * CSS
 * Github
